@@ -34,34 +34,56 @@ The dataset is rich with financial ratios that help assess the companies' liquid
 ## 🛠️ Key Features Explained
 
 •	code: A unique identifier for each company or entity in the dataset.
+
 •	Classification: Binary classification column representing categories (e.g., financial status, health, or sector classification).
+
 •	Current Ratio: Measures a company's ability to pay short-term obligations.
+
 •	Quick Ratio: A more stringent liquidity measure, excluding inventories from current assets.
+
 •	Cash Ratio: The ratio of cash and equivalents to current liabilities, showing liquidity strength.
+
 •	Operating Cash Flow Ratio: Indicates how well cash flow from operations can cover liabilities.
+
 •	Working Capital Ratio: The ratio of current assets to liabilities, revealing liquidity health.
+
 •	Return On Equity (ROE): A profitability measure that reflects how much profit a company generates from shareholders' investments.
+
 •	Net Profit Margin: The percentage of revenue left after all expenses are deducted from sales.
+
 •	EBITDA: Earnings before Interest, Taxes, Depreciation, and Amortization, a measure of profitability.
+
 •	EV/EBITDA: Enterprise Value to EBITDA ratio, used as a valuation metric.
+
 •	EV / EBIT: The ratio of Enterprise Value to Earnings Before Interest and Taxes.
+
 •	EV / Free Cash Flow: Shows how well a company generates cash relative to its valuation (Enterprise Value).
+
 •	EV / Invested Capital: Reflects how well a company uses its invested capital.
+
 •	EV / Revenue: Enterprise Value divided by total revenue, indicating valuation in terms of sales.
+
 •	P/E Ratio: Price-to-Earnings ratio, a common valuation metric that compares a company's stock price to its earnings.
+
 •	Price/Book: The ratio of a company's market value to its book value, used to assess whether a stock is undervalued or overvalued.
+
 •	Dividend Per Share: The total dividends paid per share during a specific period.
+
 •	Piotroski Score: A score evaluating financial strength, based on nine criteria related to profitability, leverage, and operational efficiency.
 
 🧩 Next Steps
 1. Data Exploration
 Visualize and analyze trends, distributions, and relationships between features.
-2. Feature Engineering
+
+3. Feature Engineering
 Derive new features that may improve model performance.
-3. Model Building
+
+4. Model Building
 Create and train classification models using financial ratios to predict company classifications.
-4. Evaluation
+
+5. Evaluation
 Use accuracy, precision, recall, and other metrics to evaluate model performance.
+
 📋 Requirements
 Before running the notebook, ensure you have the following packages installed:
 
