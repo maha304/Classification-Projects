@@ -71,7 +71,7 @@ The dataset is rich with financial ratios that help assess the companies' liquid
 
 •	Piotroski Score: A score evaluating financial strength, based on nine criteria related to profitability, leverage, and operational efficiency.
 
-🧩 Next Steps
+## 🧩 Next Steps
 1. Data Exploration
 Visualize and analyze trends, distributions, and relationships between features.
 
@@ -84,7 +84,7 @@ Create and train classification models using financial ratios to predict company
 5. Evaluation
 Use accuracy, precision, recall, and other metrics to evaluate model performance.
 
-📋 Requirements
+## 📋 Requirements
 Before running the notebook, ensure you have the following packages installed:
 
 pandas
