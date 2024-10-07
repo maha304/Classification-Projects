@@ -1,0 +1,4 @@
+This notebook demonstrates a Panel dataset , including data exploration, feature engineering, model building, and evaluation.
+### Dataset Overview:
+* The dataset contains 13 columns and 2,570 entries. It includes various financial ratios, a "Classification" column (which is the dependent variable), and a "code" column that likely represents different companies .
+Data Types: Most columns are numerical, except for the "code" column, which is an object type
