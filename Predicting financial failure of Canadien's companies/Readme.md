@@ -4,22 +4,31 @@ This notebook provides a comprehensive analysis of a financial panel dataset thr
 
 ## 📝 Table of Contents
 1-Project Overview
+
 2-Dataset Overview
+
 3-Key Features Explained
+
 4-Next Steps
+
 5-Requirements
+
 6-How to Run the Code
 
 ## 🧐 Project Overview.
 
-This project demonstrates the use of a panel dataset to explore financial ratios across multiple companies. It covers everything from data exploration, and feature engineering, to model creation aimed at classifying companies based on their financial ratios.
+This project demonstrates using a panel dataset to explore financial ratios across multiple companies. It covers everything from data exploration, and feature engineering, to model creation aimed at classifying companies based on their financial ratios.
 
 ## 📂 Dataset Overview
 
 Entries: 2,570 records
+
 Columns: 13 features
+
 Unique Identifier: The code column represents different companies/entities.
+
 Target Variable: Classification - a binary indicator (0 or 1) representing distinct categories for the companies  performance category).
+
 The dataset is rich with financial ratios that help assess the companies' liquidity, profitability, valuation, and efficiency over time.
 
 ## 🛠️ Key Features Explained
