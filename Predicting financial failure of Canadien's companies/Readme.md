@@ -3,12 +3,12 @@
 This notebook provides a comprehensive analysis of a financial panel dataset through data exploration, feature engineering, model building, and evaluation. We'll examine the financial ratios and classification of various companies, extracting insights for further analysis.
 
 ## 📝 Table of Contents
-Project Overview
-Dataset Overview
-Key Features Explained
-Next Steps
-Requirements
-How to Run the Code
+1-Project Overview
+2-Dataset Overview
+3-Key Features Explained
+4-Next Steps
+5-Requirements
+6-How to Run the Code
 
 ## 🧐 Project Overview.
 
